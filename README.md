@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Samuel Perez Zistecatl</h1>
 <h3 align="center">I am a programmer from the beautiful state of Tlaxcala, Mexico.</h3>
 
-- 🔭 I’m currently working on **A postgraduate degree in Computer Systemser Systems**
+- 🔭 I’m currently working on **A postgraduate degree in Computer Systems**
 
 - 🌱 I’m currently learning **Deep Learning**
 
